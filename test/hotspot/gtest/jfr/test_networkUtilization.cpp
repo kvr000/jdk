@@ -41,11 +41,12 @@
 #include "runtime/os_perf.hpp"
 #include "utilities/globalDefinitions.hpp"
 #include "utilities/growableArray.hpp"
-#include "unittest.hpp"
 
 #include <vector>
 #include <list>
 #include <map>
+
+#include "unittest.hpp"
 
 namespace {
 
